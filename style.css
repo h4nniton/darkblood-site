@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul, ol, li {
+    list-style: none;
+}
+
+body {
+    background-color: #231D1D;
+    overflow: hidden;
+}
+
+.retangulo1 {
+    position: absolute;
+    width: 1920px;
+    height: 7px;
+    background: #4D0000;
+}
+
+.retangulo2 {
+    position: absolute;
+    width: 1920px;
+    height: 7px;
+    left: 0px;
+    top: 930px;
+    background: #4D0000;
+}
+
+.textura {
+    width: 1920px;
+    height: 999px;
+    mix-blend-mode: multiply;
+}
+
+.logo__enhypen {
+    background-image: url(./img/darkblood-logo1.png);
+    position: absolute;
+    width: 187px;
+    height: 161px;
+    left: -10px;
+    top: 9px;
+    mix-blend-mode: lighten;
+}
