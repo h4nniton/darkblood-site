@@ -13,7 +13,7 @@ ul, ol, li {
 }
 
 body {
-    background-color: #231D1D;
+    background-color: #232323;
     overflow: hidden;
 }
 
@@ -21,7 +21,7 @@ body {
     position: absolute;
     width: 1920px;
     height: 7px;
-    background: #4D0000;
+    background: #330505;
 }
 
 .retangulo2 {
@@ -30,13 +30,7 @@ body {
     height: 7px;
     left: 0px;
     top: 930px;
-    background: #4D0000;
-}
-
-.textura {
-    width: 1920px;
-    height: 999px;
-    mix-blend-mode: multiply;
+    background: #330505;
 }
 
 .logo__enhypen {
@@ -48,3 +42,5 @@ body {
     top: 9px;
     mix-blend-mode: lighten;
 }
+
+
